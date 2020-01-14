@@ -28,8 +28,6 @@
   margin-bottom: 20px;
 }
 
-
-
 /*<!-- About Section -->*/
 .about-mf .box-shadow-full {
   padding-top: 4rem;
@@ -61,7 +59,7 @@
 }
 
 
-<!-- Navigation bar -->
+/*<!-- Navigation bar -->*/
 #container {
     padding-top: 6em;
 }
