@@ -28,6 +28,17 @@
   margin-bottom: 20px;
 }
 
+h3 {
+  font-family: ministry;
+  color: #21202a;
+  font-size: 30px;
+  line-height: 48px;
+  letter-spacing: -1.0px;
+}
+
+.text-center {
+  text-align: center;
+}
 
 /*<!-- Landing Page -->*/
 .landing-page-background {
@@ -62,6 +73,29 @@
 .skill-mf .progress .progress-bar {
   height: .7rem;
   background-color: #0078ff;
+}
+
+/*<!-- Resume Button -->*/
+.btn-default {
+    border: 1px solid #007bff;
+    color: #007bff;
+    background-color: #f5f6f4;
+
+}
+.btn {
+    text-transform: uppercase;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border-radius: 0;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
 }
 
 
