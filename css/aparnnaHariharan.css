@@ -28,6 +28,12 @@
   margin-bottom: 20px;
 }
 
+
+/*<!-- Landing Page -->*/
+.landing-page-background {
+  background-color: #21202a;
+}
+
 /*<!-- About Section -->*/
 .about-mf .box-shadow-full {
   padding-top: 4rem;
