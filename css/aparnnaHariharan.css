@@ -26,7 +26,7 @@
   letter-spacing: -2.6px;
   line-height: 48px;
   margin-bottom: 20px;
-  color: #fff;
+  color: #f5f6f4;
 }
 
 h3 {
@@ -329,9 +329,9 @@ section {
    bottom: 0;
    width: 100%;
    background-color: #4e4e4e;
-   color: white;
    text-align: center;
    padding: 1em;
+   color: #f5f6f4;
 }
 
 
