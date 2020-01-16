@@ -26,6 +26,7 @@
   letter-spacing: -2.6px;
   line-height: 48px;
   margin-bottom: 20px;
+  color: #fff;
 }
 
 h3 {
@@ -321,6 +322,18 @@ section {
 .card-img-style {
   border-radius: 0;
 }
+
+/*<!-- Contact section -->*/
+.footer-resume {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #4e4e4e;
+   color: white;
+   text-align: center;
+   padding: 1em;
+}
+
 
 /*<!-- Soical media Accounts buttons -->*/
 .fa {
