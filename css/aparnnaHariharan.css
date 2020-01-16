@@ -67,62 +67,14 @@ h2 {
   padding-bottom: 4rem;
 }
 
-.about-mf .about-img {
-  margin-bottom: 2rem;
-}
-
-.about-mf .about-img img {
-  margin-left: 10px;
-}
-
-.skill-mf span {
-  color: #4e4e4e;
-}
-
-.skill-mf .progress {
-  background-color: #cde1f8;
-  margin: .5rem 0 1.2rem 0;
-  border-radius: 0;
-  height: .7rem;
-}
-
-.skill-mf .progress .progress-bar {
-  height: .7rem;
-  background-color: #0078ff;
-}
-
-/*<!-- Resume Button -->*/
-.btn-default {
-    border: 1px solid #007bff;
-    color: #007bff;
-    background-color: #f5f6f4;
-
-}
-.btn {
-    text-transform: uppercase;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 400;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    border-radius: 0;
-}
-.btn-group-lg>.btn, .btn-lg {
-    padding: 10px 16px;
-    font-size: 18px;
-    line-height: 1.3333333;
-    border-radius: 6px;
-}
-
-
 /*<!-- Navigation bar -->*/
 #container {
-    padding-top: 6em;
+    padding-top: 3em;
 }
 
 #mainNav {
   min-height: 56px;
-  background-color: #fff;
+  background-color: #fff
 }
 
 #mainNav .navbar-toggler {
@@ -288,7 +240,7 @@ section {
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: 'Varela Round';
+  font-family: 'ministry';
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
@@ -323,15 +275,38 @@ section {
   border-radius: 0;
 }
 
-/*<!-- Contact section -->*/
+/*<!-- Resume section -->*/
 .footer-resume {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: #4e4e4e;
+   background-color: #212529;
    text-align: center;
    padding: 1em;
-   color: #f5f6f4;
+   color: #fff;
+}
+
+/*<!-- Resume Button -->*/
+.btn-default {
+    border: 1px solid #007bff;
+    color: #007bff;
+    background-color: #f5f6f4;
+
+}
+.btn {
+    text-transform: uppercase;
+    font-family: ministry;
+    font-weight: 400;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border-radius: 0;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
 }
 
 
