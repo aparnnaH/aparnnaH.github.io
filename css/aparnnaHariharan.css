@@ -262,6 +262,9 @@ section {
     border: none; 
     border-radius: 0;
 }
+.card-style:hover {
+  opacity: 0.8;
+}
 
 .card-img-style {
   border-radius: 0;
@@ -272,19 +275,18 @@ section {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: #212529;
+   background-color: #21202a;
    text-align: center;
-   padding: 1em;
+   padding: 3em;
    color: #fff;
 }
 
 /*<!-- Resume Button -->*/
 .btn-default {
-    border: 1px solid #007bff;
     color: #007bff;
     background-color: #f5f6f4;
-
 }
+
 .btn {
     text-transform: uppercase;
     font-family: ministry;
