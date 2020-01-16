@@ -36,6 +36,14 @@ h3 {
   letter-spacing: -1.0px;
 }
 
+h2 {
+  font-family: ministry;
+  color: #21202a;
+  font-size: 1.5em;
+  line-height: 48px;
+  letter-spacing: -0.5px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -46,6 +54,13 @@ h3 {
 }
 
 /*<!-- About Section -->*/
+.font-style-about {
+  font-family: ministry;
+  font-weight: 400;
+  font-size: 2em;
+  color: black;
+}
+
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -296,7 +311,6 @@ section {
   background-color: #467370 !important;
 }
 
-
 /*<!-- Side projects -->*/
 .card-style {
     box-shadow: 0 10px 10px 0 rgba(0,0,0,.08);
@@ -307,4 +321,51 @@ section {
 .card-img-style {
   border-radius: 0;
 }
+
+/*<!-- Soical media Accounts buttons -->*/
+.fa {
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.8;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  /*background: #125688;*/
+  background: #ec4a89;
+  color: white;
+}
+
+.fa-github {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-envelope {
+  background: #2c4762;
+  color: white;
+}
+
+/*<!-- Footer -->*/
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #fff;
+   color: white;
+   text-align: center;
+   padding: 1em;
+}
+
 
